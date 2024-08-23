@@ -1,4 +1,4 @@
-# code_to_github
+# Adding locally hosted code to GitHub
 Information on how to add locally stored code to GitHub
 
 1) Initialize Git: git init -b main
